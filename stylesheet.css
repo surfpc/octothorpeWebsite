@@ -1,20 +1,21 @@
 
 body {
-  background-image: url('http://hdwall.us/wallpaper_800x1280/abstract_grayscale_best_widescreen_background_awesome_desktop_1920x1080_hd-wallpaper-1330487.jpg');
+  background-color: #2C3E50;
   background-size: cover;
 }
 
 .mainHeader {
   text-align: center;
-  color: #ccc;
+  color: #ECF0F1;
   font-size: 88px;
-  font-family: 'Orbitron', sans-serif;
+  font-family: 'Russo One', sans-serif;
+  font-weight: lighter;
 }
 
 .gamePlaceholder {
   text-align: center;
-  border: solid 2px orange;
-  background-color: black;
+  border: solid 2px #e74c3c;
+  background-color: #e74c3c;
   border-radius: 30%;
   margin: 0 auto;
   height: 650px;
@@ -22,7 +23,7 @@ body {
 }
 
 .placeholderText {
-  font-family: 'Orbitron', sans-serif;
+  font-family: 'Russo One', sans-serif;
   text-align: center;
   color: white;
   margin-top: 50px;
