@@ -1,6 +1,6 @@
 $( function() {
   var initialCardStyle = `
-  font-family: "Orbitron", sans-serif;
+  font-family: "Russo One", sans-serif;
   text-align: center;
   color: white;
   margin-top: 50px;
@@ -31,7 +31,7 @@ function Card(bodyText, cardId, cardStyle) {
 function cardStyle(color) {
   return (
     `
-    font-family: "Orbitron", sans-serif;
+    font-family: "Russo One", sans-serif;
     text-align: center;
     color: white;
     margin-top: 50px;
